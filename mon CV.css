@@ -1,0 +1,17 @@
+header{
+  color : darkkhaki;
+}
+
+body {
+  background-color: royalblue;
+  padding: 20px;
+}
+
+ul li {
+  list-style-type: lower-latin;
+  color: dimgray;
+}
+
+footer {
+  color : indianred;
+}
